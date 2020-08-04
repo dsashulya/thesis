@@ -1,6 +1,8 @@
 # Data and code for the undergraduate thesis + the text and presentation
 ### Recommendation system for travelers based on TripAdvisor.com data
 
+*thesis.docx* and *presentation.pptx* - thesis text and presentation respectively.
+
 *attractions.csv* - a 975 x 29 table with the data on 975 London attractions listed on TripAdvisor. Columns include: index (item id), title, category, rating, number of reviews, link, image link and 6 topic scores and popularity scores as described in the thesis.
 ![](pictures/1.png)
 
